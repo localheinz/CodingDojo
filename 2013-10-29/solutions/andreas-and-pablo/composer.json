@@ -1,0 +1,17 @@
+{
+    "name": "researchgate/codingdojo-20131021",
+    "authors": [
+        {
+            "name": "Andreas Möller",
+            "email": "am@localheinz.com"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Pablo Gomez"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
